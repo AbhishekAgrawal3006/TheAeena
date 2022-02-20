@@ -34,10 +34,10 @@ export default function NavigationBar() {
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/#/Overview'>Overview</MDBNavbarLink>
+              <MDBNavbarLink href='/Overview'>Overview</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/#/about'>About</MDBNavbarLink>
+              <MDBNavbarLink href='/about'>About</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
