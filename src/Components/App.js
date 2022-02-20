@@ -15,8 +15,9 @@ function App() {
       </Headroom>
       <Routes>
         <Route exact path="/" element={<Home/>}/>
-        <Route exact path="/Overview" element={<Overview />} />
-        <Route exact path="/About" element={<About/>}/>
+        <Route exact path="/TheAeena" element={<Home/>}/>
+        <Route exact path="/TheAeena/Overview" element={<Overview />} />
+        <Route exact path="/TheAeena/About" element={<About/>}/>
       </Routes>      
       <Footer/>
     </Router>
