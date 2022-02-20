@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AbhishekAgrawal3006/TheAeena/static/css/main.871aae27.css",
-    "main.js": "/AbhishekAgrawal3006/TheAeena/static/js/main.17657bf6.js",
+    "main.js": "/AbhishekAgrawal3006/TheAeena/static/js/main.1b594607.js",
     "index.html": "/AbhishekAgrawal3006/TheAeena/index.html",
     "main.871aae27.css.map": "/AbhishekAgrawal3006/TheAeena/static/css/main.871aae27.css.map",
-    "main.17657bf6.js.map": "/AbhishekAgrawal3006/TheAeena/static/js/main.17657bf6.js.map"
+    "main.1b594607.js.map": "/AbhishekAgrawal3006/TheAeena/static/js/main.1b594607.js.map"
   },
   "entrypoints": [
     "static/css/main.871aae27.css",
-    "static/js/main.17657bf6.js"
+    "static/js/main.1b594607.js"
   ]
 }
