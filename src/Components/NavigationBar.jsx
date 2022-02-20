@@ -17,7 +17,7 @@ export default function NavigationBar() {
   return (
     <MDBNavbar expand='lg' light bgColor='light'>
       <MDBContainer fluid>
-        <MDBNavbarBrand href='/TheAeena/'>The Aeena</MDBNavbarBrand>
+        <MDBNavbarBrand href='/'>The Aeena</MDBNavbarBrand>
         <MDBNavbarToggler
           type='button'
           aria-expanded='false'
@@ -29,15 +29,15 @@ export default function NavigationBar() {
         <MDBCollapse navbar show={showNav}>
           <MDBNavbarNav>
             <MDBNavbarItem>
-              <MDBNavbarLink active aria-current='page' href='/TheAeena'>
+              <MDBNavbarLink active aria-current='page' href='/'>
                 Home
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/TheAeena/Overview'>Overview</MDBNavbarLink>
+              <MDBNavbarLink href='/#/Overview'>Overview</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/TheAeena/about'>About</MDBNavbarLink>
+              <MDBNavbarLink href='/#/about'>About</MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>

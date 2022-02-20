@@ -9,7 +9,7 @@ import About from "./About";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/">
       <Headroom >
           <NavigationBar />
       </Headroom>
