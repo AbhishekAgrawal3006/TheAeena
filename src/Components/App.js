@@ -14,9 +14,9 @@ function App() {
           <NavigationBar />
         </Headroom>
      <Routes>
-     <Route path="/" element={<Home />} />
-     <Route path="/Overview" element={<Overview />} />
-     <Route path="/About" element={<About></About>}/>
+     <Route path="/TheAeena/" element={<Home />} />
+     <Route path="/TheAeena/Overview" element={<Overview />} />
+     <Route path="/TheAeena/About" element={<About></About>}/>
      </Routes>      
     <Footer/>
     </Router>
