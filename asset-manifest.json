@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TheAeena/static/css/main.080a3039.css",
-    "main.js": "/TheAeena/static/js/main.7a1b14c8.js",
+    "main.css": "/TheAeena/static/css/main.2cfa8088.css",
+    "main.js": "/TheAeena/static/js/main.369cfeb9.js",
     "index.html": "/TheAeena/index.html",
-    "main.080a3039.css.map": "/TheAeena/static/css/main.080a3039.css.map",
-    "main.7a1b14c8.js.map": "/TheAeena/static/js/main.7a1b14c8.js.map"
+    "main.2cfa8088.css.map": "/TheAeena/static/css/main.2cfa8088.css.map",
+    "main.369cfeb9.js.map": "/TheAeena/static/js/main.369cfeb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.080a3039.css",
-    "static/js/main.7a1b14c8.js"
+    "static/css/main.2cfa8088.css",
+    "static/js/main.369cfeb9.js"
   ]
 }
